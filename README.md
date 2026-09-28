@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trips Data Analysis
 
 ## Project Overview
@@ -61,3 +62,6 @@ TripsDataAnalysis/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+=======
+# TripsDataAnalysis
+>>>>>>> 194364fdb5e7ea2309771e025fe704105f9c0f62
